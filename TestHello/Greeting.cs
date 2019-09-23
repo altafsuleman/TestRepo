@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace TestHello
 {
@@ -10,7 +11,16 @@ namespace TestHello
     {
         public static string SayHello()
         {
-            return "Hello from Suleman, " + DateTime.Now;
+            var json = JsonConvert.SerializeObject(new Person()
+            {
+                Name = "WIN"
+            });
+            return "Hello from Suleman, " + DateTime.Now + json;
         }
+    }
+
+    public class Person
+    {
+        public string Name { get; set; }
     }
 }
