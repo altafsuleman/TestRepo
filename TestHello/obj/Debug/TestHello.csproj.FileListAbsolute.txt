@@ -4,3 +4,9 @@ D:\Projects\PartFinder\Bamboo\TestRepo\TestHello\TestHello\obj\Debug\TestHello.c
 D:\Projects\PartFinder\Bamboo\TestRepo\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
 D:\Projects\PartFinder\Bamboo\TestRepo\TestHello\TestHello\obj\Debug\TestHello.dll
 D:\Projects\PartFinder\Bamboo\TestRepo\TestHello\TestHello\obj\Debug\TestHello.pdb
+D:\Projects\PartFinder\Bamboo\TestRepo\TestHello\bin\Debug\TestHello.dll
+D:\Projects\PartFinder\Bamboo\TestRepo\TestHello\bin\Debug\TestHello.pdb
+D:\Projects\PartFinder\Bamboo\TestRepo\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+D:\Projects\PartFinder\Bamboo\TestRepo\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+D:\Projects\PartFinder\Bamboo\TestRepo\TestHello\obj\Debug\TestHello.dll
+D:\Projects\PartFinder\Bamboo\TestRepo\TestHello\obj\Debug\TestHello.pdb

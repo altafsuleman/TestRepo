@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace TestHello
 {
-    public class Greeting
+    public static class Greeting
     {
-        public string SayHello()
+        public static string SayHello()
         {
             return "Hello from Suleman, " + DateTime.Now;
         }
